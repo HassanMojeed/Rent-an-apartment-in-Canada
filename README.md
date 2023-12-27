@@ -2,11 +2,13 @@
 This project delve into the real estate (house rental) industry in Canada.
 
 ### Introduction
- In this project, I will conduct an in-depth analysis of long-term rental pricing in Canada, leveraging the booming real estate market. The primary goal of this project is to uncover patterns related to apartment types, costs, and locations. By deciphering the dynamics that influence housing trends nationwide, this analysis aims to offer valuable insights for both tenants and investors.
+In this project, I will conduct an in-depth analysis of long-term rental pricing in Canada, leveraging the booming real estate market. The primary goal of this project is to uncover patterns related to apartment types, costs, and locations. By deciphering the dynamics that influence housing trends nationwide, this analysis aims to offer valuable insights for both tenants and investors.
 
- ### Data Collection
+### Data Collection
 
- The data used in this project was scraped from Kijiji, a well-known online marketplace. I will be performing some activities such as;
+The data used in this project was scraped from Kijiji, a well-known Canada's leading local classifieds platform, facilitating the buying, selling, and trading of a wide range of items, including cars, real estate, jobs, services, and more. It operates as a subsidiary of eBay and has a significant presence in Canada, as well as in other countries like Switzerland, Austria, and Japan. 
+ 
+ I will be performing some activities such as;
 
 - Looping: to iteratively navigate through pages, and
 - Extracting vital information such as:
