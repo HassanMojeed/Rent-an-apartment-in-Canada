@@ -1,5 +1,6 @@
 # Rent-an-apartment-in-Canada
 This project delve into the real estate (house rental) industry in Canada.
+### [Click here for the dynamic visuals](https://app.powerbi.com/view?r=eyJrIjoiOTk1YjQ0ZDItNzcwYy00NGNmLWJiMTctMTNlYTk3ODYwZmE3IiwidCI6ImFlM2E5OTA2LTc4MWEtNDQ2YS1iZGI2LTYzNzdjMDllMmM2ZiIsImMiOjF9)
 
 ### Introduction
 In this project, I will conduct an in-depth analysis of long-term rental pricing in Canada, leveraging the booming real estate market. The primary goal of this project is to uncover patterns related to apartment types, costs, and locations. By deciphering the dynamics that influence housing trends nationwide, this analysis aims to offer valuable insights for both tenants and investors.
