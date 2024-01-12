@@ -19,6 +19,8 @@ The data used in this project was scraped from Kijiji, a well-known Canada's lea
     3. Location
     4. Description
     5. Number of rooms. 
+
+
 To efficiently parse the HTML content, I will use the BeautifulSoup library.
 
 ### Data Processing
